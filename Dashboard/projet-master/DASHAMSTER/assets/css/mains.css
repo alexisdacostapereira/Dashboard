@@ -1,0 +1,63 @@
+#loginContent {
+    border-radius: 30px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html {
+    position: reltaive;
+    height: 100%;
+    max-width: 95%;
+    margin: auto;
+    background-color: #303030;
+}
+
+footer {
+    background: #ccc;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding-top: 50px;
+    height: 50px;
+    text-align: center;
+}
+
+.col-sm {
+    text-align: center;
+}
+
+.footer {
+    background-color: #e9ecef;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+}
+
+.colorRed {
+    color: #E2454A;
+}
+
+#containerWidget a:hover {
+    color: grey;
+}
+
+.card-body {
+    background-color: #d6d4d4;
+    height: 100%;
+    width: 100%;
+}
+
+#myHr {
+    background-color: red;
+    border: 2px solid red;
+    border-radius: 30%;
+}
+
+.footer_style {
+    margin-left: 3em;
+    margin-right: 3em;
+}
